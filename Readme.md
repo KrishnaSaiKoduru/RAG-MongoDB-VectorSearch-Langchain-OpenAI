@@ -2,13 +2,6 @@
 
 A production-ready Retrieval-Augmented Generation (RAG) system that combines MongoDB Atlas Vector Search with OpenAI for intelligent document querying. This system processes PDF documents, stores them with semantic embeddings, and enables natural language question-answering.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [System Architecture](#system-architecture)
-- [Features](#features)
-- [Workflow Visualization](#workflow-visualization)
-- [Project Structure](#project-structure)
-
 ## 🎯 Overview
 
 This project implements a complete RAG (Retrieval-Augmented Generation) pipeline that:
